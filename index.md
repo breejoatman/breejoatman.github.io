@@ -3,7 +3,7 @@
 
 
 
-# Bree Oatman PhD (She/Her) #
+# Bree Oatman PhD (She/Her) 
 
 ![Headshot of Bree Oatman](https://sdepscor.org/wp-content/uploads/2024/03/Bree-Oatman.png)
 
