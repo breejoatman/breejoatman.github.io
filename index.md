@@ -19,9 +19,7 @@ Haskell University
 /haskell.html" width="600" height="600">
 
 Al Jawf Region
-<embed type="text/html" src="breejoatman.github.io
-/aljawfregion.html" width="600" height="600">
+<embed type="text/html" src="aljawfregion.html" width="600" height="600">
 
 Eld Inlet
-<embed type="text/html" src="breejoatman.github.io
-/eld.html" width="600" height="600">
+<embed type="text/html" src="eld.html" width="600" height="600">
