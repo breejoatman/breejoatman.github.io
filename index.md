@@ -12,3 +12,6 @@ Hello, I am Research Faculty at Oglala Lakota College (www.olc.edu) on the Pine 
 - [Email](boatman@olc.edu)
 - Linkedin (https://www.linkedin.com/in/bree-oatman-phd-5019057/)
   
+Mapping Practice:
+
+[Haskell University](file:///C:/Users/BreeOatman/Downloads/haskell.html)
