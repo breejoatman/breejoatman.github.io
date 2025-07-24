@@ -15,13 +15,13 @@ Hello, I am Research Faculty at Oglala Lakota College (www.olc.edu) on the Pine 
 Mapping and Data Practice:
 
 Haskell University
-<embed type="text/html" src="breejoatman.github.io
-/haskell.html" width="600" height="600">
+<embed type="text/html" src="haskell.html" width="600" height="600">
 
 Al Jawf Region
 <embed type="text/html" src="aljawfregion.html" width="600" height="600">
 
-<embed type=img width="563" height="453" alt="Karachi average temp" src="https://github.com/user-attachments/assets/45c8d3f6-8f39-4960-8e4a-f322d668abd4" />
-
 Eld Inlet
 <embed type="text/html" src="eld.html" width="600" height="600">
+
+Karachi Average Annual Temperature
+<img width="563" height="453" alt="Karachi average temp" src="" />
