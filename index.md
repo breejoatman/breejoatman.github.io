@@ -24,4 +24,4 @@ Eld Inlet
 <embed type="text/html" src="eld.html" width="600" height="600">
 
 Karachi Average Annual Temperature
-<img width="563" height="453" alt="Karachi average temp" src="" />
+<img width="563" height="453" alt="Karachi average temp" src="Karachi average temp.png" />
