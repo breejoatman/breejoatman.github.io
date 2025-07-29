@@ -20,6 +20,9 @@ Haskell University
 Al Jawf Region
 <embed type="text/html" src="aljawfregion.html" width="600" height="600">
 
+Tubarjal Valley Irrigation Changes
+<embed type="text/html" src="ndvi_diff.html" width="600" height="600>
+
 Eld Inlet
 <embed type="text/html" src="eld.html" width="600" height="600">
 
